@@ -4,7 +4,7 @@
 
 我仅作翻译处理以及其他优化
 
-Demo 1：https://snxdm.github.io/lof/
+Demo 1：https://snxdm.github.io/fireworks/
 
 Demo 2：https://fireworks.nianbroken.top/
 
